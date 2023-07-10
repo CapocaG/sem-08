@@ -39,7 +39,7 @@ Content-Type: application/json
 
 {"nombre": "Marketing"}
 ###
-GET {{server}}/cursos/2/carrera
+GET {{server}}/cursos/1/carrera
 ###
 GET {{server}}/carreras/1
 ###
