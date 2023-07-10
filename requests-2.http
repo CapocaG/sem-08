@@ -1,4 +1,4 @@
-@server = https://texai-sturdy-adventure-xv9jj494hq47-8080.preview.app.github.dev
+@server = https://arturogabcar.onrender.com
 @apiserver = {{server}}/api/curso
 ###
 GET {{server}}/
@@ -12,7 +12,7 @@ GET {{apiserver}}/listar
 POST {{apiserver}}/nuevo
 Content-Type: application/x-www-form-urlencoded
 
-nombre=Algoritmos&creditos=3
+nombre=jar&creditos=3
 ###
 DELETE {{apiserver}}/eliminar
 Content-Type: application/x-www-form-urlencoded
