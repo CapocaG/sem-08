@@ -1,4 +1,4 @@
-@server = https://arturogabcar.onrender.com
+@server = https://arturo-7wzw.onrender.com
 ###
 GET {{server}}
 ###
